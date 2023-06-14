@@ -1,0 +1,63 @@
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.csproj.AssemblyReference.cache
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\App.g.cs
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp_MarkupCompile.cache
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp_MarkupCompile.lref
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\JerijeesApp.exe
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\JerijeesApp.deps.json
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\JerijeesApp.runtimeconfig.json
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\JerijeesApp.dll
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\JerijeesApp.pdb
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\Prism.dll
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\Prism.Unity.Wpf.dll
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\Unity.Abstractions.dll
+C:\DemoApp\JerijeesApp\bin\Debug\net6.0-windows\Unity.Container.dll
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\App.baml
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.g.resources
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.AssemblyInfoInputs.cache
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.AssemblyInfo.cs
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.csproj.CoreCompileInputs.cache
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.csproj.CopyComplete
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.dll
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\refint\JerijeesApp.dll
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.pdb
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.genruntimeconfig.cache
+C:\DemoApp\JerijeesApp\obj\Debug\net6.0-windows\ref\JerijeesApp.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\JerijeesApp.exe
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\JerijeesApp.deps.json
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\JerijeesApp.runtimeconfig.json
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\JerijeesApp.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\JerijeesApp.pdb
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\Prism.Unity.Wpf.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\Unity.Abstractions.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\bin\Debug\net6.0-windows\Unity.Container.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.csproj.AssemblyReference.cache
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp_MarkupCompile.cache
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp_MarkupCompile.lref
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\App.baml
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.g.resources
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.AssemblyInfoInputs.cache
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.AssemblyInfo.cs
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.csproj.CoreCompileInputs.cache
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.csproj.CopyComplete
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\refint\JerijeesApp.dll
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.pdb
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\JerijeesApp.genruntimeconfig.cache
+C:\Users\Jerijees AlHassan\Desktop\JerijeesApp\obj\Debug\net6.0-windows\ref\JerijeesApp.dll
